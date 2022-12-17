@@ -1,1 +1,1 @@
-# credit-card-details
+# credit-card-details-ui
